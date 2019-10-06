@@ -11,7 +11,17 @@ This document contain link to various resources, supporting my talk on how you c
 ## Information SAP Inside Track
 * [SAP Inside Track Wiki](https://wiki.scn.sap.com/wiki/display/events/SAP+Inside+Track) - Listing of SAP Inside Tracks
 * [How to host a SIT event](https://community.sap.com/events/inside-track/about-inside-track) - How-to guide
-
+* [Coffee Corner Radio Podcast](https://anchor.fm/sap-community-podcast)
+   * Episode 3: Interview with Craig Cmehil - This episode brings you an interview with Craig Cmehil, who is the new head of the SAP community and Mentor program.
+     * [Link to episode on Overcast](https://overcast.fm/+MsUr0KsXc)
+     * [Link to episode on Apple Podcast](https://podcasts.apple.com/no/podcast/episode-3-interview-with-craig-cmehil/id1370422791?i=1000412626586&l=nb)
+     * [Link to episode on Breaker](https://www.breaker.audio/coffee-corner-radio/e/34354403)
+     * [Link to episode on Spotify](https://open.spotify.com/episode/617dAjTFNHy7kpzS9OzkAM)
+    * Episode 11: SAP Inside Track (SIT) Council with Svea Becker - In this episode Simon chats with Svea Becker - SAP Community Advocate for SAP Community Events. They discuss SAP Inside Tracks, Stammtisch and the new SIT Council.
+      * [Link to episode on Overcast](https://overcast.fm/+MsUpeT6Mw)
+      * [Link to episode on Apple Podcast](https://podcasts.apple.com/no/podcast/episode-11-sap-inside-track-sit-council-with-svea-becker/id1370422791?i=1000424110471&l=nb)
+      * [Link to episode on Breaker](https://www.breaker.audio/coffee-corner-radio/e/40150452)
+      * [Link to episode on Spotify](https://open.spotify.com/episode/7z6QIMFuM12BOjmKL6wo3e)
 
 ## Tools
 * [Trello](https://trello.com) - Project management
