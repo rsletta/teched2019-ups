@@ -1,6 +1,6 @@
 # SAP TechEd 2019 - Unleash the power of sharing - Bootstrapping a local SAP community
 
-This document contain link to various resources, supporting my talk on how you can become an active member of the SAP Community, and organize a community event like SAP Inside Track.
+This document contain links to various resources, supporting my talk on how you can become an active member of the SAP Community, and organize a community event like SAP Inside Track.
 
 ## General SAP Community
 * [SAP Community](https://community.sap.com/) - SAP Community landing page
