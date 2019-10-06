@@ -1,6 +1,6 @@
 # SAP TechEd 2019 - Unleash the power of sharing - Bootstrapping a local SAP community
 
-This document contain links to various resources, supporting my talk on how you can become an active member of the SAP Community, and organize a community event like SAP Inside Track.
+This document contain links to various resources, supporting my talk ([CT152](https://sessioncatalog.sapevents.com/go/agendabuilder.sessions/?l=221&sid=98352_508694&locale=en_US))on how you can become an active member of the SAP Community, and organize a community event like SAP Inside Track.
 
 ## General SAP Community
 * [SAP Community](https://community.sap.com/) - SAP Community landing page
@@ -57,6 +57,7 @@ This document contain links to various resources, supporting my talk on how you 
    * [OBS Link](https://help.elgato.com/hc/en-us/articles/360031363132-OBS-Link-Setup) - (Mac only) Utility for linking Elgato Game Capture HD60S to OBS
    * [Apple Keynote](https://www.apple.com/keynote/) - For creating title screens for stream
    * [Google Chrome](https://www.google.com/intl/no/chrome/) - For managing sitOSLO channel on YouTube.
+* [Belkin USB 3.0 4 Port Hub](https://www.belkin.com/us/p/P-F4U088/) - Powered USB C hub, for robust connectivity on MacBook Pro
 * [Elgato Game Capture HD60S](https://www.elgato.com/en/gaming/game-capture-hd60-s) - Capture device to capture presentation over HDMI. Hooks between presenter computer and projector.
 * [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck) - USB controller for scene transitions
 * iPhone 7 Plus - dedicated camera for stream
